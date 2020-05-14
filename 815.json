@@ -4,12 +4,12 @@
   	"description": "Fotobuch A4 Hardcover",
   	"date": "2020-02-14T13:38:27+01:00",
   	"invoiceNr": 1122334455667890,
-  	"imgUrl": "https://videophotobookbackend.test.orwonet.de/img/IMG_6248.jpg",
-  	"thumbnailUrl": "https://videophotobookbackend.test.orwonet.de/img/IMG_6307.jpg",
+  	"imgUrl": "/img/IMG_6248.jpg",
+  	"thumbnailUrl": "/img/IMG_6307.jpg",
   	"videos": [{
   		"id": 1,
-  		"preview": "https://videophotobookbackend.test.orwonet.de/img/IMG_6309.jpg",
+  		"preview": "/img/IMG_6309.jpg",
   		"descriptor": "Object",
-  		"video": "https://videophotobookbackend.test.orwonet.de/video/640.3g2"
+  		"video": "/video/640.3g2"
   	}]
   }
