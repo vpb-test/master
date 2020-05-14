@@ -4,7 +4,7 @@
   	"description": "Fotobuch A4 Hardcover",
   	"date": "2020-02-14T13:38:27+01:00",
   	"invoiceNr": 1122334455667890,
-  	"imgUrl": "/img/IMG_6248.jpg",
+  	"imgUrl": "https://videophotobookbackend.test.orwonet.de/img/bart_simpson.png",
   	"thumbnailUrl": "/img/IMG_6307.jpg",
   	"videos": [{
   		"id": 1,
